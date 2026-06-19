@@ -58,7 +58,9 @@ git clone https://github.com/tashfiafuady9/K-RENTAL.git
 rental_hp_konser.sql
 ```
 ke phpMyAdmin.
+
 4. Jalankan Apache dan MySQL pada XAMPP.
+
 5. Buka browser
 ```text
 http://localhost/rental_hp_konser
