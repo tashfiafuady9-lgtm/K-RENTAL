@@ -12,6 +12,9 @@ Aplikasi K-RENTAL dibuat untuk menyelesaikan beberapa permasalahan yang sering t
 * Meningkatkan efisiensi pengelolaan bisnis penyewaan handphone melalui sistem berbasis web yang dapat diakses kapan saja dan di mana saja.
 
 ## Fitur
+### Halaman utama
+<img width="3837" height="1722" alt="image" src="https://github.com/user-attachments/assets/28575856-7614-4f5f-8aa6-8ee3ccd4f23d" />
+
 ### Customer
 * Registrasi akun
 * Login
