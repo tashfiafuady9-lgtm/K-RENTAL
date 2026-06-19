@@ -78,4 +78,5 @@ Buat akun melalui halaman registrasi.
 
 ## Developer
 Nama : Tashfia Wahdah Fuady
+
 Program Studi : Teknik Informatika
