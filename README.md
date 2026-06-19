@@ -20,6 +20,8 @@ Aplikasi K-RENTAL dibuat untuk menyelesaikan beberapa permasalahan yang sering t
 * Upload bukti pembayaran
 * Melihat riwayat penyewaan
 <img width="3837" height="1730" alt="image" src="https://github.com/user-attachments/assets/d0d49ed2-af0c-4080-8fba-adbf13567592" />
+<img width="3837" height="1717" alt="image" src="https://github.com/user-attachments/assets/5fdf22d5-6a05-44c5-b96e-b34b7371ebf5" />
+<img width="3837" height="1722" alt="image" src="https://github.com/user-attachments/assets/d234618b-8875-48c0-bf3c-4ec375441434" />
 
 ### Admin
 * Login admin
@@ -29,6 +31,10 @@ Aplikasi K-RENTAL dibuat untuk menyelesaikan beberapa permasalahan yang sering t
 * Kelola Penyewaan
 * Menyelesaikan transaksi penyewaan
 <img width="3837" height="1725" alt="Screenshot 2026-06-20 042128" src="https://github.com/user-attachments/assets/de7fad97-ab2a-47c0-a805-2b6c89965327" />
+<img width="3837" height="1730" alt="image" src="https://github.com/user-attachments/assets/ce6742f7-36c8-43ff-ab5c-5fb2b410cbca" />
+<img width="3837" height="1710" alt="image" src="https://github.com/user-attachments/assets/9d65cce9-2903-4cd6-aa18-7cd62e46df2c" />
+<img width="3837" height="1712" alt="image" src="https://github.com/user-attachments/assets/816f8760-a2fe-4abc-9723-1a2bf413ee03" />
+<img width="3837" height="1712" alt="image" src="https://github.com/user-attachments/assets/21bc1351-4d54-4a10-94ff-31f2b00a8c20" />
 
 ## Teknologi
 * PHP Native
