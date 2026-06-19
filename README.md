@@ -14,6 +14,7 @@ Aplikasi K-RENTAL dibuat untuk menyelesaikan beberapa permasalahan yang sering t
 ## Fitur
 ### Customer
 <img width="3837" height="1730" alt="image" src="https://github.com/user-attachments/assets/d0d49ed2-af0c-4080-8fba-adbf13567592" />
+
 * Registrasi akun
 * Login
 * Melihat katalog handphone
@@ -23,6 +24,7 @@ Aplikasi K-RENTAL dibuat untuk menyelesaikan beberapa permasalahan yang sering t
 
 ### Admin
 <img width="3837" height="1725" alt="Screenshot 2026-06-20 042128" src="https://github.com/user-attachments/assets/de7fad97-ab2a-47c0-a805-2b6c89965327" />
+
 * Login admin
 * CRUD Merek Handphone
 * CRUD Data Handphone
